@@ -35,7 +35,7 @@ print item.select('#inning-detail-1')[0].text.strip()           //印出各
 print item.select('#inning-detail-2')[0].text.strip()
 
     
-print item.select('#inning-detail-3')[0].text.strip()
+print item.select('#inning-detail-3')[0].text.strip() 
 
     
 print item.select('#inning-detail-4')[0].text.strip()
