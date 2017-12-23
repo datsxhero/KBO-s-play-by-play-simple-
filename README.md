@@ -38,6 +38,10 @@ Google InfoLite
 
 開發:
 
+使用InfoLite工具至目標網站圈選要抓取的play-by-play局次
+
+![image](https://github.com/datsxhero/KBO-s-play-by-play-simple-/blob/master/%E6%9C%AA%E5%91%BD%E5%90%8D9.png)
+
 開啟Anaconda2中的juptyer
 
 ![image](https://github.com/datsxhero/KBO-s-play-by-play-simple-/blob/master/%E6%9C%AA%E5%91%BD%E5%90%8D7.png)
