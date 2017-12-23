@@ -15,7 +15,11 @@ Step 2 依序點選下載步驟
 
 ![image](https://github.com/datsxhero/KBO-s-play-by-play-simple-/blob/master/%E6%9C%AA%E5%91%BD%E5%90%8D1.png)
 
-![image]()
+![image](https://github.com/datsxhero/KBO-s-play-by-play-simple-/blob/master/%E6%9C%AA%E5%91%BD%E5%90%8D3.png)
+
+之後按下安裝並等候
+
+![image](https://github.com/datsxhero/KBO-s-play-by-play-simple-/blob/master/%E6%9C%AA%E5%91%BD%E5%90%8D6.5.png)
 
 
 Google InfoLite
