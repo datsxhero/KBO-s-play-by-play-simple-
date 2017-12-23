@@ -7,8 +7,9 @@
 開發環境: 
 
 Anaconda2-juptyer
+Step 1至官網下載Anaconda2:
 ![image](https://github.com/datsxhero/KBO-s-play-by-play-simple-/blob/master/%E6%9C%AA%E5%91%BD%E5%90%8D.png)
-Python3.6
+
 
 Google InfoLite
 
