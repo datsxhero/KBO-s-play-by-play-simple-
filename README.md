@@ -69,7 +69,9 @@ soup = BeautifulSoup(res.text)
 for item in soup.select('#live_inning_details'):            //利用工具InfoLite將play-by-play的1~9場次圈選起來
 
     
-print item.select('#inning-detail-1')[0].text.strip()      //印出各場次的play-by-play(更換要抓得局次只需改變#inning-detail-中局次數即可)
+//印出各場次的play-by-play(更換要抓得局次只需改變#inning-detail-中局次數即可)
+
+print item.select('#inning-detail-1')[0].text.strip()      
  
    
 print item.select('#inning-detail-2')[0].text.strip()
