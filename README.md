@@ -7,7 +7,7 @@
 開發環境: 
 
 Anaconda2-juptyer
-
+![image](KBO-s-play-by-play-simple-/未命名.png)
 Python3.6
 
 Google InfoLite
