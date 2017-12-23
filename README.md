@@ -34,8 +34,21 @@ Google InfoLite
 
 ![image](https://github.com/datsxhero/KBO-s-play-by-play-simple-/blob/master/%E6%9C%AA%E5%91%BD%E5%90%8D6.png)
 
-
 ===============================================================================
+
+開發:
+
+開啟Anaconda2中的juptyer
+
+![image](https://github.com/datsxhero/KBO-s-play-by-play-simple-/blob/master/%E6%9C%AA%E5%91%BD%E5%90%8D7.png)
+
+參考以下範例程式碼說明(此程式碼為一部分一部分去抓取範圍)
+
+![image](https://github.com/datsxhero/KBO-s-play-by-play-simple-/blob/master/%E6%9C%AA%E5%91%BD%E5%90%8D8.png)
+
+
+
+範例程式碼
 
 以 KT Wiz 7:4 Kia Tigers August 16, 2016為例 
 
@@ -52,7 +65,7 @@ soup = BeautifulSoup(res.text)
 for item in soup.select('#live_inning_details'):            //利用工具InfoLite將play-by-play的1~9場次圈選起來
 
     
-print item.select('#inning-detail-1')[0].text.strip()           //印出各場次的play-by-play
+print item.select('#inning-detail-1')[0].text.strip()      //印出各場次的play-by-play(更換要抓得局次只需改變#inning-detail-中局次數即可)
  
    
 print item.select('#inning-detail-2')[0].text.strip()
