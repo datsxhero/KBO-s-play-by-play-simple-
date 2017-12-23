@@ -8,9 +8,13 @@
 
 Anaconda2-juptyer
 Step 1至官網下載Anaconda2:
+
 ![image](https://github.com/datsxhero/KBO-s-play-by-play-simple-/blob/master/%E6%9C%AA%E5%91%BD%E5%90%8D.png)
+
 Step 2 依序點選下載步驟
+
 ![image](https://github.com/datsxhero/KBO-s-play-by-play-simple-/blob/master/%E6%9C%AA%E5%91%BD%E5%90%8D1.png)
+
 ![image]()
 
 
